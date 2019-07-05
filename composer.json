@@ -1,0 +1,6 @@
+{
+    "require": {
+        "riverslei/payment": "*",
+        "aileshe/upload": "*"
+    }
+}
